@@ -1,0 +1,27 @@
+{"properties": [
+  {
+    "name": "rabbitmq.queue.name",
+    "type": "java.lang.String",
+    "description": "A description for 'rabbitmq.queue.name'"
+  },
+  {
+    "name": "rabbitmq.exchange.name",
+    "type": "java.lang.String",
+    "description": "A description for 'rabbitmq.exchange.name'"
+  },
+  {
+    "name": "rabbitmq.binding.key",
+    "type": "java.lang.String",
+    "description": "A description for 'rabbitmq.binding.key'"
+  },
+  {
+    "name": "rabbitmq.json.queue.name",
+    "type": "java.lang.String",
+    "description": "A description for 'rabbitmq.json.queue.name'"
+  },
+  {
+    "name": "rabbitmq.json.binding.key",
+    "type": "java.lang.String",
+    "description": "A description for 'rabbitmq.json.binding.key'"
+  }
+]}
